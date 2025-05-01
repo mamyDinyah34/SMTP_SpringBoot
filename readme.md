@@ -24,6 +24,7 @@ It uses Java Mail Sender for email functionality and provides a simple web inter
 - **Configuration**: Gmail (or any other compatible SMTP server)
 
 ## Video Demonstration
+![smpt](https://github.com/user-attachments/assets/89649367-7cd3-4d9d-8651-cb3f3dadea61)
 
 
 ## Installation and Execution
